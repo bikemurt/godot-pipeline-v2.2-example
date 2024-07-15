@@ -23,7 +23,7 @@ Check out other videos from my YouTube channel (more recent = better) for thorou
 
 ## Where to get the Blender addon portion
 
-[https://blendermarket.com/](https://blendermarket.com/products/blender-godot-pipeline-addon)
+[Blender Market](https://blendermarket.com/products/blender-godot-pipeline-addon)
 
 ## 🏠 Links
 
