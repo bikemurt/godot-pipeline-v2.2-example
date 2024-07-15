@@ -19,8 +19,9 @@ You can compare with the [v22 level_01](https://github.com/bikemurt/godot-pipeli
 https://github.com/user-attachments/assets/28d3e3bb-3fb5-49ca-a73f-f76387b0b0fd
 
 # Demonstrated features
+- Setting default pipeline path in Godot
 - Collisions, setting collision layers and masks
-- Composite (primitive) collisions
+- Composite primitive collisions
 - Multimesh Instancer
 - .blend file importing support
 - Material slot auto Godot material linking:
