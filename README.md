@@ -9,6 +9,11 @@ Blender versions have been tested up to 4.1.
 
 https://github.com/user-attachments/assets/0963d870-b1b5-4498-9d89-509c834f624a
 
+You still need to [download/install the addon separately](https://blendermarket.com/products/blender-godot-pipeline-addon).
+
+If you'd like to try to reproduce the collisions and workflow that I used, the "v22 level_01_blank" blend file is available, which does not have any pipeline parameters set.
+You can compare with the "v22 level_01" file.
+
 # Running scene in Godot
 
 https://github.com/user-attachments/assets/28d3e3bb-3fb5-49ca-a73f-f76387b0b0fd
@@ -24,10 +29,6 @@ https://github.com/user-attachments/assets/28d3e3bb-3fb5-49ca-a73f-f76387b0b0fd
 
 Unfortunately this demo does not come close to explaining or showing all of the features of the addon.
 Check out other videos from my YouTube channel (more recent = better) for thorough explanations.
-
-## Where to get the Blender addon portion
-
-[Blender Market](https://blendermarket.com/products/blender-godot-pipeline-addon)
 
 ## 🏠 Links
 
