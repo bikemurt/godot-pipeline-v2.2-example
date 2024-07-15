@@ -11,8 +11,8 @@ https://github.com/user-attachments/assets/0963d870-b1b5-4498-9d89-509c834f624a
 
 You still need to [download/install the addon separately](https://blendermarket.com/products/blender-godot-pipeline-addon).
 
-If you'd like to try to reproduce the collisions and workflow that I used, the "v22 level_01_blank" blend file is available, which does not have any pipeline parameters set.
-You can compare with the "v22 level_01" file.
+If you'd like to try to reproduce the collisions and workflow that I used, the [v22 level_01_blank](https://github.com/bikemurt/godot-pipeline-v2.2-example/tree/main/assets) blend file is available, which does not have any pipeline parameters set.
+You can compare with the [v22 level_01](https://github.com/bikemurt/godot-pipeline-v2.2-example/tree/main/assets) file.
 
 # Running scene in Godot
 
