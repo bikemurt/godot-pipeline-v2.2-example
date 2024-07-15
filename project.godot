@@ -19,10 +19,11 @@ config/icon="res://icon.svg"
 
 window/size/viewport_width=1600
 window/size/viewport_height=900
+window/size/mode=3
 
 [importer_defaults]
 
-animation_library={
+scene={
 "import_script/path": "res://addons/blender_godot_pipeline/GLTFImporter.gd"
 }
 
