@@ -8,6 +8,7 @@ const SENS_X = 0.001
 const SENS_Y = 0.001
 
 @onready var camera_3d: Camera3D = $Camera3D
+@onready var animation_player: AnimationPlayer = $"../v22 level_01_Imported/AnimationPlayer"
 
 func _ready() -> void:
 	Input.mouse_mode = Input.MOUSE_MODE_CAPTURED
@@ -19,7 +20,18 @@ func _input(event: InputEvent) -> void:
 		rotate_y(-event_mm.relative.x * SENS_X)
 	pass
 
+var door_open := false
 func _physics_process(delta: float) -> void:
+	
+	if Input.is_action_just_pressed("anim"):
+		if not animation_player.is_playing():
+			if not door_open:
+				animation_player.play("cage_open")
+				door_open = true
+			else:
+				animation_player.play_backwards("cage_open")
+				door_open = false
+	
 	# Add the gravity.
 	if not is_on_floor():
 		velocity += get_gravity() * delta
