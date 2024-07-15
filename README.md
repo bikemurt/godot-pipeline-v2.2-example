@@ -15,4 +15,11 @@ https://github.com/user-attachments/assets/28d3e3bb-3fb5-49ca-a73f-f76387b0b0fd
 - Multimesh Instancer
 - .blend file importing support
 - Material slot auto Godot material linking:
-- ![image](https://github.com/user-attachments/assets/567f0003-40fe-4736-ada3-e62bc0ae15e7)
+
+![image](https://github.com/user-attachments/assets/567f0003-40fe-4736-ada3-e62bc0ae15e7)
+
+## 🏠 Links
+
+- [Homepage](https://www.michaeljared.ca/)
+- [Youtube](https://www.youtube.com/@michaeljburt)
+- [Blender Market](https://blendermarket.com/creators/michaeljared)
