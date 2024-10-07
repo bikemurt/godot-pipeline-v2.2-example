@@ -1,4 +1,6 @@
 # godot-pipeline-v2.2-example
+https://www.youtube.com/watch?v=Dg_ZLBRrSmk
+
 Example project for v2.2 of the Blender-Godot Pipeline Addon.
 
 This project was made with version 3.6 of Blender and version 4.3.dev5.official of Godot.
